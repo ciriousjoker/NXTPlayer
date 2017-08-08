@@ -1,7 +1,7 @@
 # NXTPlayer
 This is a digital gramophone. It's more of a proof of concept than something you'd want to listen to in your spare time ;)
 
-After I finished the project, I did a presentation for the class. The slides are available [here](gallery/NXTPresentationGerman.pptx). A translated version (in English) is available [here](gallery/NXTPresentationEnglish.pptx).
+After I finished the project, I did a presentation for the class. The slides are available [here](gallery/NXTPresentationGerman.pptx?raw=true). A translated version (in English) is available [here](gallery/NXTPresentationEnglish.pptx?raw=true).
 
 This was the presentation that I did for the class after I finished the project.
 
