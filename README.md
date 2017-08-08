@@ -7,7 +7,7 @@ This was the presentation that I did for the class after I finished the project.
 
 Here's basically how it works:
 
-<img src="gallery/img/Illustration.svg" width="100%">
+<img src="https://cdn.rawgit.com/CiriousJoker/NXTPlayer/074bccfa/gallery/img/Illustration.svg" width="100%">
 
 ## Supported features
 I tried to resemble the real worl in this project as closely as possible. In the end, I can say with confidence, that there isn't much left I could have done to further stretch the boundaries of what's possible.

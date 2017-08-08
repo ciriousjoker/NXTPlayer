@@ -19,7 +19,7 @@ This lego robot can play back the [NXTDisks](#nxtdisk-layout) created with the [
 
 |   Color   |  Meaning  |              |
 |-----------|-----------|--------------|
-| ![#4caf50](https://placehold.it/15/4caf50/000000?text=+)<br>![#2196F3](https://placehold.it/15/2196F3/000000?text=+)<br>![#f44336](https://placehold.it/15/f44336/000000?text=+)<br>![#ffeb3b](https://placehold.it/15/ffeb3b/000000?text=+) | Meta data<br>1st row<br>2nd row<br>3rd row | <img src="gallery/img/DiskStructure.svg" width="100%"> |
+| ![#4caf50](https://placehold.it/15/4caf50/000000?text=+)<br>![#2196F3](https://placehold.it/15/2196F3/000000?text=+)<br>![#f44336](https://placehold.it/15/f44336/000000?text=+)<br>![#ffeb3b](https://placehold.it/15/ffeb3b/000000?text=+) | Meta data<br>1st row<br>2nd row<br>3rd row | <img src="https://cdn.rawgit.com/CiriousJoker/NXTPlayer/074bccfa/gallery/img/DiskStructure.svg" width="100%"> |
 
 
 # Tone Data Layout
@@ -39,7 +39,7 @@ Note that the data uses base 9 for encoding.
 For example, the bpm of 113 (base 9) translates to 93 bpm (81×1+9×1+1×3)
 
 This is the data layout for the meta data:
-<img src="gallery/img/MetaDataLayout.svg" width="100%">
+<img src="https://cdn.rawgit.com/CiriousJoker/NXTPlayer/074bccfa/gallery/img/MetaDataLayout.svg" width="100%">
 | Field              | Reason                                                                                                       |
 |--------------------|--------------------------------------------------------------------------------------------------------------|
 | Calibration fields | To account for the current lighting situation                                                                |
