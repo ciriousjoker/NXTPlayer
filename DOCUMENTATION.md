@@ -40,6 +40,7 @@ For example, the bpm of 113 (base 9) translates to 93 bpm (81×1+9×1+1×3)
 
 This is the data layout for the meta data:
 <img src="https://cdn.rawgit.com/CiriousJoker/NXTPlayer/074bccfa/gallery/img/MetaDataLayout.svg" width="100%">
+
 | Field              | Reason                                                                                                       |
 |--------------------|--------------------------------------------------------------------------------------------------------------|
 | Calibration fields | To account for the current lighting situation                                                                |
